@@ -1,8 +1,7 @@
 # Links
 
 
-## 알고리즘 문제풀이 사이트  
-***
+## 1. 알고리즘 문제풀이 사이트  
 #### [백준 Online Judge](https://www.acmicpc.net/)  
 가장 유명한 알고리즘 사이트입니다! 알고리즘 문제 수도 많고 활용할 수 있는 기능이 많아요  
 #### [프로그래머스](https://programmers.co.kr/)  
